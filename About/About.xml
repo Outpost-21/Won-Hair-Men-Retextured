@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Won Hair Men Retextured</name>
+	<author>Neronix17</author>
+	<packageId>Neronix17.Retexture.WonHairMen</packageId>
+	<url>https://www.patreon.com/neronix17</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Just a simple retexture of Won Hair Men, making them higher resolution for a cleaner result and closer to the vanilla style.</description>
+    <modDependencies>
+		<li>
+			<packageId>won.hair</packageId>
+			<displayName>Won hair_men</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1879950403</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+	<loadAfter>
+		<li>won.hair</li>
+	</loadAfter>
+</ModMetaData>
